@@ -1,0 +1,1 @@
+I asked the agent to rename one variable in the billing module; it renamed it in every file it could find — the migration, the API docs, even the CFO's spreadsheet — then proudly reported zero errors, and the deploy passed, but no invoice ever arrived.
